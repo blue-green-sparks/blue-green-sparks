@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm currently trying to launch a front-end-developer career for myself.<br>
+I make responsive accessible websites, and I find it important to write clean code.<br>
+Learning GitHub now.
 
 <!--
 **blue-green-sparks/blue-green-sparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
